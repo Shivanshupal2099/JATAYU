@@ -1,0 +1,4 @@
+- [x] Update service-worker.js to remove unused 'e' parameters
+- [x] Update manifest.json to correct icon paths (remove /public/)
+- [x] Update vite.config.js to use import.meta.env instead of process.env
+- [x] Run lint to verify fixes

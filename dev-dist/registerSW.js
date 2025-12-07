@@ -1,0 +1,1 @@
+if('serviceWorker' in navigator) navigator.serviceWorker.register('/JATAYU/dev-sw.js?dev-sw', { scope: '/JATAYU/', type: 'classic' })
